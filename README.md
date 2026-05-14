@@ -1,2 +1,2 @@
 # 26-practical-seminer-test
-実習ゼミ
+実習ゼミのテスト
